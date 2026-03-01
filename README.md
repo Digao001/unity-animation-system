@@ -19,7 +19,8 @@ Transições de animação orientadas a eventos;
 <br>
 comunicação entre sistemas baseada em observadores;
 <br>
-totalmente integrado ao novo sistema de entrada do Unity; 
+totalmente integrado ao novo sistema de entrada do Unity;
+<br>
 design modular e escalável.
 
 ---
@@ -31,23 +32,13 @@ design modular e escalável.
 
 ---
 
-## 🛠 Technologies Used
+## Technologias
 
 - Unity
 - C#
 - Observer Pattern
 - Unity Input System
 - Event-driven architecture
-
----
-
-## 🎯 Purpose
-
-This project was developed to practice:
-
-- Design Patterns in game development
-- Clean architecture principles
-- Decoupled system design
 
 ---
 
