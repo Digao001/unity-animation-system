@@ -1,39 +1,24 @@
-# 🎮 Unity Animation System
+## Unity Animation System
 
-Modular animation system built in Unity using Observer Pattern and the new Input System.
 
----
+## Arquitetura
 
-## 🧠 Overview
+O sistema está dividido em:
 
-This project demonstrates a decoupled animation architecture where:
-
-- Input is separated from animation logic
-- Events are dispatched using the Observer Pattern
-- Character states react dynamically to gameplay changes
-- The system is scalable and easy to expand
-
----
-
-## 🏗 Architecture
-
-The system is divided into:
-
-- 🎮 Input Layer (Unity Input System)
-- 📡 Event Layer (Observer Pattern)
-- 🎭 Animation Controller Layer
-- 🧩 State Handling
+- 🎮 Input (Unity Input System)
+- 📡 Event (Observer Pattern)
+- 🎭 Animation Controller
 
 This separation allows clean code and easier maintenance.
 
 ---
 
-## 🚀 Features
+## Características
 
-- Event-driven animation transitions
-- Observer-based communication between systems
-- Fully integrated with Unity's new Input System
-- Modular and scalable design
+Transições de animação orientadas a eventos; 
+comunicação entre sistemas baseada em observadores; 
+totalmente integrado ao novo sistema de entrada do Unity; 
+design modular e escalável.
 
 ---
 
@@ -42,7 +27,8 @@ This separation allows clean code and easier maintenance.
 (Add a GIF or screenshot here)
 
 Example:
-![Demo](demo.gif)
+![Demo] 
+
 
 ---
 
