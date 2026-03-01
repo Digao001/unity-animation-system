@@ -16,6 +16,7 @@ This separation allows clean code and easier maintenance.
 ## Características
 
 Transições de animação orientadas a eventos; 
+<br>
 comunicação entre sistemas baseada em observadores; 
 totalmente integrado ao novo sistema de entrada do Unity; 
 design modular e escalável.
