@@ -17,7 +17,8 @@ This separation allows clean code and easier maintenance.
 
 Transições de animação orientadas a eventos; 
 <br>
-comunicação entre sistemas baseada em observadores; 
+comunicação entre sistemas baseada em observadores;
+<br>
 totalmente integrado ao novo sistema de entrada do Unity; 
 design modular e escalável.
 
