@@ -24,10 +24,7 @@ design modular e escalável.
 
 ## 📸 Demo
 
-(Add a GIF or screenshot here)
-
-Example:
-![Demo] 
+![Demo](demo.gif)
 
 
 ---
