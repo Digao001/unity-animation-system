@@ -24,7 +24,7 @@ design modular e escalável.
 
 ## 📸 Demo
 
-![Demo](demo.gif)
+![Demo]Animation events.gif
 
 
 ---
